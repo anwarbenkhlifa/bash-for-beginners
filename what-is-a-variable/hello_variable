@@ -1,5 +1,17 @@
 #!/bin/bash
 
 # Welcome to your first Bash Script
+message="Hello, World!"
+current_dir=`pwd`
+#This is a a constant, it's value can't be changed
+readonly PI="3.14159"
 
-echo 'Hello World!'
+echo $message
+
+#	This prints the value of current_dir
+echo "Current directory is: $current_dir"
+
+#This prints literally what's inside the quotes
+echo 'Current directory is: $current_dir'
+
+echo "PI = $PI"
