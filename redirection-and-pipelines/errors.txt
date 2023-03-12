@@ -1,0 +1,12 @@
+total 28
+-rw-rw-rw- 1 vscode vscode   0 Mar 12 15:10 errors.txt
+-rw-rw-rw- 1 vscode root    53 Mar 12 13:47 error.txt
+-rw-rw-rw- 1 vscode root   390 Mar 12 13:47 output2.txt
+-rw-rw-rw- 1 vscode vscode 606 Mar 12 15:04 output3.txt
+-rw-rw-rw- 1 vscode root   333 Mar 12 13:47 output.txt
+-rw-rw-rw- 1 vscode root   677 Mar 12 13:47 paragrah.txt
+-rw-rw-rw- 1 vscode root   415 Mar 12 13:47 part1.txt
+-rw-rw-rw- 1 vscode root   262 Mar 12 13:47 part2.txt
+-rw-rw-rw- 1 vscode root     0 Mar 12 13:47 part3.txt
+-rw-rw-rw- 1 vscode root     0 Mar 12 13:47 part4.txt
+-rw-rw-rw- 1 vscode vscode   0 Mar 12 15:03 test
